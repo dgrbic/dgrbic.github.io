@@ -9,10 +9,12 @@ layout: default
 <div class="main_content">
 
     {{content}}
-    
+
 </div>
 <script src="/js/jquery.min.js"></script>
+{% include cookies.html %}
 {% include comments.html element=".main_content" github_account="dgrbic/dgrbic.github.io" require_cookie_consent="true" %}
+
 </body>
 </html>
 
