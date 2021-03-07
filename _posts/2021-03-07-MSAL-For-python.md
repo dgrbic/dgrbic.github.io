@@ -2,6 +2,7 @@
 layout: post
 title:  "MSAL for Python"
 tags: python msal office365
+comment_issue_id: 1
 ---
 
 Hello, my name is Dragan Grbić, and this is my first post in new blog, named Dev Kitchen.
